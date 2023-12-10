@@ -2,7 +2,7 @@
 
 ** MODEL : Juggernaut XL (https://civitai.com/models/133005/juggernaut-xl) 
 
-``https://colab.research.google.com/drive/1Vk4db0oRWcELTeQDhM6LtIhbvQx5Eya-``
+https://colab.research.google.com/drive/1Vk4db0oRWcELTeQDhM6LtIhbvQx5Eya-
 
 ``https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_juggernautXL_v7.ipynb``  
 
