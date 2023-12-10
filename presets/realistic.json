@@ -1,5 +1,5 @@
 {
-    "default_model": "realisticStockPhoto_v10.safetensors",
+    "default_model": "Juggernaut XL v7",
     "default_refiner": "",
     "default_refiner_switch": 0.5,
     "default_loras": [
