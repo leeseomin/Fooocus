@@ -1,15 +1,9 @@
-<div align=center>
-<img src="https://github.com/lllyasviel/Fooocus/assets/19834515/483fb86d-c9a2-4c20-997c-46dafc124f25">
+## installing on colab : Juggernaut XL (https://civitai.com/models/133005/juggernaut-xl) 
+<br> 
+https://colab.research.google.com/drive/1Vk4db0oRWcELTeQDhM6LtIhbvQx5Eya- 
 
-**Non-cherry-picked** random batch by just typing two words "forest elf", 
+https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_juggernautXL_v7.ipynb  
 
-without any parameter tweaking, without any strange prompt tags. 
-
-See also **non-cherry-picked** generalization and diversity tests [here](https://github.com/lllyasviel/Fooocus/discussions/808) and [here](https://github.com/lllyasviel/Fooocus/discussions/679) and [here](https://github.com/lllyasviel/Fooocus/discussions/679#realistic).
-
-In the entire open source community, only Fooocus can achieve this level of **non-cherry-picked** quality.
-
-</div>
 
 
 # Fooocus
@@ -29,11 +23,7 @@ Fooocus has simplified the installation. Between pressing "download" and generat
 `[1]` David Holz, 2019.
 <br> 
 <br> 
-## installing on colab : Juggernaut XL (https://civitai.com/models/133005/juggernaut-xl) 
-<br> 
-https://colab.research.google.com/drive/1Vk4db0oRWcELTeQDhM6LtIhbvQx5Eya- 
 
-https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_juggernautXL_v7.ipynb  
 
 <br> 
 <br> 
