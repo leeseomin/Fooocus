@@ -6,7 +6,7 @@ https://colab.research.google.com/drive/1Vk4db0oRWcELTeQDhM6LtIhbvQx5Eya-
 
 https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_juggernautXL_v7.ipynb  
 
-In Colab, you can modify the last line to  !python entry_with_update.py --preset anime --share  : by anime style
+In Colab, you can modify the last line to `` !python entry_with_update.py --preset anime --share `` : by anime style
 
 
 # Fooocus
