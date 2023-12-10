@@ -28,7 +28,7 @@ Fooocus has simplified the installation. Between pressing "download" and generat
 
 `[1]` David Holz, 2019.
 
-## installing on colab : Juggernaut XL 
+## installing on colab : Juggernaut XL (https://civitai.com/models/133005/juggernaut-xl) 
 
 https://colab.research.google.com/drive/1Vk4db0oRWcELTeQDhM6LtIhbvQx5Eya- 
 
@@ -37,7 +37,9 @@ https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_juggernautXL_v7.ipy
 
 </div>
 
+
 ## [Installing Fooocus](#download)
+
 
 # Moving from Midjourney to Fooocus
 
