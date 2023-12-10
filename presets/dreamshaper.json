@@ -3,8 +3,8 @@
     "default_refiner_switch": 0.667,
     "default_loras": [
         [
-            "dreamshaper-lora_1.0.safetensors",
-            0.5
+            "None",
+            1.0
         ],
         [
             "None",
@@ -45,7 +45,5 @@
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/unaestheticXLv31.safetensors"
     },
-    "lora_downloads": {
-        "dreamshaper-lora_1.0.safetensors": "https://civitai.com/models/4384/dreamshaper"
-    }
+    "lora_downloads": {}
 }
