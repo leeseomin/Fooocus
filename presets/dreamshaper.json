@@ -1,6 +1,5 @@
 {
     "default_model": "dreamshaper.safetensors",
-    "default_refiner": "dreamshaper_refiner.safetensors",
     "default_refiner_switch": 0.667,
     "default_loras": [
         [
