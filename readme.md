@@ -32,6 +32,7 @@ Fooocus has simplified the installation. Between pressing "download" and generat
 
 https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_juggernautXL_v7.ipynb  
 
+</div>
 
 ## [Installing Fooocus](#download)
 
