@@ -1,4 +1,4 @@
-# Installing on colab : 
+# Running on colab : 
 
 ** MODEL : 
 
