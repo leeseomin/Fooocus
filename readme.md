@@ -1,10 +1,12 @@
 # Installing on colab : 
 
-** MODEL : Juggernaut XL (https://civitai.com/models/133005/juggernaut-xl) 
+** MODEL : 
 
-⭕ https://colab.research.google.com/drive/1Vk4db0oRWcELTeQDhM6LtIhbvQx5Eya-
+⭕ https://colab.research.google.com/drive/1Vk4db0oRWcELTeQDhM6LtIhbvQx5Eya-  : Juggernaut XL v7
 
 ``https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_juggernautXL_v7.ipynb``  
+
+⭕
 
 In Colab, you can modify the last line to `` !python entry_with_update.py --preset anime --share `` : by anime style
 
