@@ -1,6 +1,6 @@
 # Installing on colab : 
 
-### Juggernaut XL (https://civitai.com/models/133005/juggernaut-xl) 
+** Juggernaut XL (https://civitai.com/models/133005/juggernaut-xl) 
 
 https://colab.research.google.com/drive/1Vk4db0oRWcELTeQDhM6LtIhbvQx5Eya- 
 
