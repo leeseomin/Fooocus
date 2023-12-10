@@ -27,15 +27,16 @@ Fooocus has included and automated [lots of inner optimizations and quality impr
 Fooocus has simplified the installation. Between pressing "download" and generating the first image, the number of needed mouse clicks is strictly limited to less than 3. Minimal GPU memory requirement is 4GB (Nvidia).
 
 `[1]` David Holz, 2019.
-
+<br> 
+<br> 
 ## installing on colab : Juggernaut XL (https://civitai.com/models/133005/juggernaut-xl) 
-
+<br> 
 https://colab.research.google.com/drive/1Vk4db0oRWcELTeQDhM6LtIhbvQx5Eya- 
 
 https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_juggernautXL_v7.ipynb  
 
-
-</div>
+<br> 
+<br> 
 
 
 ## [Installing Fooocus](#download)
