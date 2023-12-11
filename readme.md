@@ -10,7 +10,7 @@
 
 
 
-⭕ https://colab.research.google.com/drive/148mZBfe6rYwqFEg_Bqq-3RPcrDVEBNky : dreamshaper-xl
+⭕ https://colab.research.google.com/drive/148mZBfe6rYwqFEg_Bqq-3RPcrDVEBNky : DreamShaper XL
 
 ``https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_dreamshaper-xl.ipynb`` 
 
