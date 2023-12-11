@@ -18,8 +18,6 @@
 
 ⭕ [Juggernaut XL v7 + richmixRetroRealism](https://colab.research.google.com/drive/1Vk4db0oRWcELTeQDhM6LtIhbvQx5Eya-)
 
-⭕ https://colab.research.google.com/drive/1Vk4db0oRWcELTeQDhM6LtIhbvQx5Eya-  : Juggernaut XL v7 + richmixRetroRealism
-
 ``https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_juggernautXL_v7.ipynb`` 
 
 
