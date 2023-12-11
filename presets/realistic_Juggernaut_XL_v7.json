@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "JuggernautXLv7.safetensors": "https://civitai.com/api/download/models/240840?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "JuggernautXLv7.safetensors": "https://civitai.com/api/download/models/240840?type=Model&format=SafeTensor&size=full&fp=fp16",
         "Richmix_Retro Realism": "https://civitai.com/api/download/models/118095?type=Model&format=SafeTensor&size=full&fp=fp32"
     },
     "embeddings_downloads": {},
