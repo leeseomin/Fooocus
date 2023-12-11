@@ -41,9 +41,7 @@
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
         "dreamshaper-xl.safetensors": "https://civitai.com/api/download/models/251662"
-    },
-    "embeddings_downloads": {
-        "unaestheticXLv31.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/unaestheticXLv31.safetensors"
+   
     },
     "lora_downloads": {}
 }
