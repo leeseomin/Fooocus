@@ -4,7 +4,7 @@
 
  
 
-⭕ https://colab.research.google.com/drive/1RM-3K__hRJ60ETxwkb6ev0oDmawOMLCu  : fooocus_colab_realistic 
+⭕ https://colab.research.google.com/drive/1RM-3K__hRJ60ETxwkb6ev0oDmawOMLCu  : Realistic Stock Photo
 
 ``https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_realistic.ipynb`` 
 
