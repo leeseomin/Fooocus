@@ -1,6 +1,6 @@
 # Running on colab : 
 
-** MODEL : 
+** BY MODEL : 
 
  
 
