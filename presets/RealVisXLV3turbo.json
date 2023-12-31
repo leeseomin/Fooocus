@@ -8,8 +8,8 @@
             0.25
         ],
         [
-            "None",
-            1.0
+            "ClassipeintXL1.9.safetensors",
+            0.25
         ],
         [
             "None",
@@ -39,7 +39,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-       "ClassipeintXL1.9": "https://civitai.com/api/download/models/163652?type=Model&format=SafeTensor",
+       "ClassipeintXL1.9.safetensors": "https://civitai.com/api/download/models/163652?type=Model&format=SafeTensor",
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
     }
 }
