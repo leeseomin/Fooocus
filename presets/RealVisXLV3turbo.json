@@ -29,19 +29,18 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": " The Little Prince strolling through the planet's beautiful gardens, ",
-    "default_prompt_negative": "(embedding:unaestheticXLv31:0.8),hands, low quality, watermark",
-    "default_styles": [
+    "default_prompt_negative": "unrealistic, hands, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature,mutation, watermark, piercings, earrings, earring, jewelry, jewellery, lipstick, label",    "default_styles": [
         "Fooocus V2",
         "Fooocus Masterpiece",
-        "SAI Anime",
-        "SAI Digital Art",
-        "SAI Enhance",
-        "SAI Fantasy Art"
+        "Fooocus Photograph",
+        "Fooocus Negative"
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
         "realvisxlV30Turbo_v30TurboBakedvae.safetensors": "https://civitai.com/api/download/models/272378"
-   
     },
-    "lora_downloads": {}
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
+    }
 }
