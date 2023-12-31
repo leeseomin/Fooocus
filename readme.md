@@ -29,6 +29,8 @@
 
 In Colab, you can modify the last line to `` !python entry_with_update.py --preset anime --share `` : by anime style
 
+✔️ 풍경위주의 사진등은 스타일탭에서 v2 체크 off.
+
 
 # Fooocus
 
