@@ -31,9 +31,6 @@
     "default_performance": "Speed",
     "default_prompt": "",
     "default_prompt_negative": "unrealistic, hands, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature,mutation, watermark, piercings, earrings, earring, jewelry, jewellery, lipstick, label",    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Masterpiece",
-        "Fooocus Photograph",
         "Fooocus Negative"
     ],
     "default_aspect_ratio": "896*1152",
