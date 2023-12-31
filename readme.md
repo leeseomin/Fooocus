@@ -9,7 +9,7 @@
 ``https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_realistic.ipynb`` 
 
 
-⭕ [realvisxlV30Turbo_v30Turbo](https://colab.research.google.com/drive/1RM-3K__hRJ60ETxwkb6ev0oDmawOMLCu1111)
+⭕ [realvisxlV30Turbo_v30Turbo](https://colab.research.google.com/drive/1L9gqnNlJK-1bfQZpR6WXMa3wN9MN5pN9)
 
 ``https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_realistic.ipynb](https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_RealVisXLV3turbo.ipynb)`` 
 
