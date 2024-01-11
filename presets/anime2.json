@@ -1,5 +1,5 @@
 {
-    "default_model": "sdvn7Nijistylexl_v1.safetensors",
+    "default_model": "animagine-xl-3.0.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.667,
     "default_loras": [
@@ -30,7 +30,7 @@
     "default_scheduler": "karras",
     "default_performance": "quality",
     "default_prompt": "1girl, ",
-    "default_prompt_negative": "worst quality, low quality,realistic, 3d, 2d, painting, cartoons, sketch, low quality, watermark",
+    "default_prompt_negative": "worst quality, low quality, low quality,nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, watermark",
     "default_styles": [
         "Fooocus V2",
         "Fooocus Masterpiece",
@@ -41,7 +41,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "sdvn7Nijistylexl_v1.safetensors": "https://civitai.com/api/download/models/155870"
+        "animagine-xl-3.0.safetensors": "https://huggingface.co/cagliostrolab/animagine-xl-3.0/blob/main/animagine-xl-3.0.safetensors"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/unaestheticXLv31.safetensors"
