@@ -32,7 +32,7 @@
 ``https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_juggernautXL_v7.ipynb`` 
 
 
-⭕ [NijiStyleXL](https://colab.research.google.com/drive/1xn_IBF7lJL11jjAx09vrJMjLRu6Xlqlz)
+⭕ [animagineXL 3.0](https://colab.research.google.com/drive/1xn_IBF7lJL11jjAx09vrJMjLRu6Xlqlz)
 
 
 
