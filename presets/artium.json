@@ -4,8 +4,8 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
-            0.25
+            "None",
+            1.0
         ],
         [
             "None",
@@ -32,7 +32,6 @@
     "default_prompt": "",
     "default_prompt_negative": "hands,jpeg, saturated, high contrast, big nose,watermark, signature,mutation, watermark, piercings, earrings, earring, jewelry, jewellery, lipstick, label",
     "default_styles": [
-        "Fooocus V2",
         "Fooocus Cinematic",
         "Fooocus Enhance",
         "Fooocus Photograph",
