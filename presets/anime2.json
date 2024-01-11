@@ -28,7 +28,7 @@
     "default_sample_sharpness": 2.0,
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
-    "default_performance": "quality",
+    "default_performance": "Quality",
     "default_prompt": "1girl, ",
     "default_prompt_negative": "worst quality, low quality, low quality,nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, watermark",
     "default_styles": [
@@ -41,7 +41,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "animagine-xl-3.0.safetensors": "https://huggingface.co/cagliostrolab/animagine-xl-3.0/blob/main/animagine-xl-3.0.safetensors"
+        "animagine-xl-3.0.safetensors": "https://huggingface.co/cagliostrolab/animagine-xl-3.0/resolve/main/animagine-xl-3.0.safetensors?download=true"
     },
     "embeddings_downloads": {
         "unaestheticXLv31.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/unaestheticXLv31.safetensors"
