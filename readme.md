@@ -17,7 +17,7 @@
 
 ⭕ [artium](https://colab.research.google.com/drive/1qkrS3fC9Rj1BHlvMrG0lBM3JfYdWpr56)
 
-``https://github.com/leeseomin/Fooocus/blob/main/fooocus_colab_realistic.ipynb`` 
+``https://github.com/leeseomin/Fooocus/blob/main/artium.ipynb`` 
 
 
 
