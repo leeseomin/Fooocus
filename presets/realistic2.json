@@ -28,7 +28,7 @@
     "default_sample_sharpness": 2.0,
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
-    "default_performance": "Speed",
+    "default_performance": "Quality",
     "default_prompt": "",
     "default_prompt_negative": "hands,jpeg, unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature,mutation, watermark, piercings, earrings, earring, jewelry, jewellery, lipstick, label",
     "default_styles": [
