@@ -16,7 +16,7 @@
 
 
 ⭕ [Realistic Stock Photo v2](https://colab.research.google.com/drive/1oYEJnS6Zbj4hyhtAznmKIxftFhLyHG0K)
-
+``https://github.com/leeseomin/Fooocus/blob/main/realistic2.ipynb``
 
 ⭕ [artium](https://colab.research.google.com/drive/1qkrS3fC9Rj1BHlvMrG0lBM3JfYdWpr56)
 
