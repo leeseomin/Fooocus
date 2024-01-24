@@ -4,12 +4,12 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
-            0.25
+            "bb3l15.safetensors",
+            0.5
         ],
         [
-            "None",
-            1.0
+            "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
+            0.25
         ],
         [
             "None",
@@ -30,17 +30,19 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "unrealistic, hands, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature,mutation, watermark, piercings, earrings, earring, jewelry, jewellery, lipstick, label",    "default_styles": [
+    "default_prompt_negative": "hands,  watermark, text",    "default_styles": [
+        "Fooocus V2",
+        "Fooocus Cinematic",
+        "Fooocus Enhance",
         "Fooocus Negative"
-        ,"Fooocus Photograph"
     ],
-    "default_aspect_ratio": "896*1152",
+    "default_aspect_ratio": "1012*1012",
     "checkpoint_downloads": {
         "realvisxlV30Turbo_v30TurboBakedvae.safetensors": "https://civitai.com/api/download/models/272378"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-       "ClassipeintXL1.9.safetensors": "https://civitai.com/api/download/models/163652?type=Model&format=SafeTensor",
+        "bb3l15.safetensors": "https://civitai.com/api/download/models/188803",
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
     }
 }
