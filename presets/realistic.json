@@ -4,8 +4,8 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
-            0.25
+            "stvmccrr.safetensors",
+            0.5
         ],
         [
             "None",
@@ -44,6 +44,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
+        "stvmccrr.safetensors": "https://civitai.com/api/download/models/240247?type=Model&format=SafeTensor",
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
     }
 }
