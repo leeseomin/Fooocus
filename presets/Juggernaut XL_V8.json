@@ -1,0 +1,47 @@
+{
+    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
+    "default_refiner": "",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            "stvmccrr.safetensors",
+            0.5
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 5.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Quality",
+    "default_prompt": "",
+    "default_prompt_negative": "hands,jpg, watermark, text",    "default_styles": [
+        "Fooocus V2",
+        "Fooocus Cinematic",
+        "Fooocus Enhance",
+        "Fooocus Negative"
+    ],
+    "default_aspect_ratio": "1012*1012",
+    "checkpoint_downloads": {
+        "juggernautXL_v8Rundiffusion.safetensors": "https://civitai.com/api/download/models/288982?type=Model&format=SafeTensor&size=full&fp=fp16"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "stvmccrr.safetensors": "https://civitai.com/api/download/models/240247?type=Model&format=SafeTensor",
+    }
+}
