@@ -42,6 +42,6 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "stvmccrr.safetensors": "https://civitai.com/api/download/models/240247?type=Model&format=SafeTensor",
+        "stvmccrr.safetensors": "https://civitai.com/api/download/models/240247?type=Model&format=SafeTensor"
     }
 }
