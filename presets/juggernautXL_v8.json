@@ -36,9 +36,9 @@
         "Fooocus Enhance",
         "Fooocus Negative"
     ],
-    "default_aspect_ratio": "1012*1012",
+    "default_aspect_ratio": "1024*1024",
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://civitai.com/api/download/models/288982?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "juggernautXL_v8Rundiffusion.safetensors": "https://civitai.com/api/download/models/288982?type=Model&format=SafeTensor&size=full&fp=fp16",
     },
     "embeddings_downloads": {},
     "lora_downloads": {
