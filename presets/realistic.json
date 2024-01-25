@@ -44,7 +44,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "stvmccrr.safetensors": "https://drive.google.com/file/d/1fHJdDE69FNa-P5Lxnhwr9hbUTTLgvZjh/view?usp=drive_link",
+        "stvmccrr.safetensors": "https://drive.google.com/file/d/1fHJdDE69FNa-P5Lxnhwr9hbUTTLgvZjh/view?usp=sharing",
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
     }
 }
